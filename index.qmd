@@ -1,0 +1,50 @@
+---
+title: "CS6304: Advanced Topics in Language and Translation (Spring 2024)"
+---
+
+## Course Details
+
+* Instructor: Kirshanthan (Krish) Sundararajah | [email](mailto:kirshanthans@vt.edu) | [website](kirshanthans.github.io)
+* Class Time: TBA
+* Office Hours: TBA
+* 4103 Gilbert Place
+
+## Course Topics
+
+This course focuses on the techniques used by advanced compilers to optimize and analyze programs. The topics we will cover in this course include:
+
+1. Advanced Dataflow Analysis.
+2. Static Single Assignment (SSA) Form.
+3. Loop Transformations (cache models and automatic transformation frameworks)
+4. Data Layout Transformations.
+5. Automatic Verification in Compilers.
+6. Other Topics (Performance, Parallelization etc.)
+
+## Course Overview
+
+This course can be divided into two parts.
+
+1. **First half**: Lectures on the first three topics.
+2. **Second half**:  Discussing classic and current research papers on exciting topics of compiler research.
+
+### Writing a Critical Response
+
+Each student must choose three papers for which to write a 1-page response. A format will be provided for this response. This response must summarize the main ideas of the paper and discuss any shortcomings and possible extensions of the paper (A list of papers will be made available soon).
+
+### Delivering a Research Presentation
+
+Each student will also choose an additional paper to present in the class. The week before your presentation, you should meet with me to review and revise your slides, and to give a practice presentation. If you have not given a research presentation before, this course will serve as training! Each presentation should be _35 minutes_, followed by a _15-minute_ discussion period (appropriate presentation length will factor in to your grade).
+
+### Carrying Out a Research Project
+
+The bulk of your grade will come from an **individual course project**. This project can be on any topic you like (including related to your own research), as long as it is connected to the material in the course. I will also provide some ideas if you have trouble coming up with one. You will write a _two-page_ proposal detailing your project idea, and then present the results of your project during one of the last class periods. Your project presentation should be _25 minutes_, including questions. The exact dates for when your proposal and presentation will be due are yet to be determined.
+
+### Writing a Research Paper
+
+You will also submit a final project report, written in the style of a research paper. This should be roughly 8-10 pages, two-column, 10-pt font. Your report should discuss the motivation for your project, survey related work, describe your idea and implementation and provide experimental validation (or theoretical justification, in the case of a theory-oriented project).
+
+Grade Calculation:
+
+* Paper responses: 15% (5% each)
+* Paper presentation: 25%
+* Project: 50% (10% for proposal, 15% for presentation, 25% for report)
