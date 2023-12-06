@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CS6304: Advanced Topics in Language and Translation (Spring 2024)",
+    "section": "",
+    "text": "Instructor: Kirshanthan (Krish) Sundararajah | email | website\nClass Time: TBA\nOffice Hours: TBA\n4103 Gilbert Place"
+  },
+  {
+    "objectID": "index.html#course-topics",
+    "href": "index.html#course-topics",
+    "title": "CS6304: Advanced Topics in Language and Translation (Spring 2024)",
+    "section": "Course Topics",
+    "text": "Course Topics\nThis course focuses on the techniques used by advanced compilers to optimize and analyze programs. The topics we will cover in this course include:\n\nAdvanced Dataflow Analysis.\nStatic Single Assignment (SSA) Form.\nLoop Transformations (cache models and automatic transformation frameworks)\nData Layout Transformations.\nAutomatic Verification in Compilers.\nOther Topics (Performance, Parallelization etc.)"
+  },
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "CS6304: Advanced Topics in Language and Translation (Spring 2024)",
+    "section": "Course Overview",
+    "text": "Course Overview\nThis course can be divided into two parts.\n\nFirst half: Lectures on the first three topics.\nSecond half: Discussing classic and current research papers on exciting topics of compiler research.\n\n\nWriting a Critical Response\nEach student must choose three papers for which to write a 1-page response. A format will be provided for this response. This response must summarize the main ideas of the paper and discuss any shortcomings and possible extensions of the paper (A list of papers will be made available soon).\n\n\nDelivering a Research Presentation\nEach student will also choose an additional paper to present in the class. The week before your presentation, you should meet with me to review and revise your slides, and to give a practice presentation. If you have not given a research presentation before, this course will serve as training! Each presentation should be 35 minutes, followed by a 15-minute discussion period (appropriate presentation length will factor in to your grade).\n\n\nCarrying Out a Research Project\nThe bulk of your grade will come from an individual course project. This project can be on any topic you like (including related to your own research), as long as it is connected to the material in the course. I will also provide some ideas if you have trouble coming up with one. You will write a two-page proposal detailing your project idea, and then present the results of your project during one of the last class periods. Your project presentation should be 25 minutes, including questions. The exact dates for when your proposal and presentation will be due are yet to be determined.\n\n\nWriting a Research Paper\nYou will also submit a final project report, written in the style of a research paper. This should be roughly 8-10 pages, two-column, 10-pt font. Your report should discuss the motivation for your project, survey related work, describe your idea and implementation and provide experimental validation (or theoretical justification, in the case of a theory-oriented project).\nGrade Calculation:\n\nPaper responses: 15% (5% each)\nPaper presentation: 25%\nProject: 50% (10% for proposal, 15% for presentation, 25% for report)"
+  }
+]
