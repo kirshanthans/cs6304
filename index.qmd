@@ -44,6 +44,9 @@ You will also submit a final project report, written in the style of a research 
 
 ### Grade Calculation
 
-* Paper responses: 15% (5% each)
+* Paper responses: 15% (= 3 x 5%)
 * Paper presentation: 25%
-* Project: 50% (10% for proposal, 15% for presentation, 25% for report)
+* Project: 50% 
+    * Proposal: 10%
+    * Presentation: 15%
+    * Report: 25%
