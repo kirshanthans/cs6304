@@ -42,7 +42,7 @@ The bulk of your grade will come from an **individual course project**. This pro
 
 You will also submit a final project report, written in the style of a research paper. This should be roughly 8-10 pages, two-column, 10-pt font. Your report should discuss the motivation for your project, survey related work, describe your idea and implementation and provide experimental validation (or theoretical justification, in the case of a theory-oriented project).
 
-Grade Calculation:
+### Grade Calculation:
 
 * Paper responses: 15% (5% each)
 * Paper presentation: 25%
