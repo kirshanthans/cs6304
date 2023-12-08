@@ -17,7 +17,7 @@ This course focuses on the techniques used by advanced compilers to optimize and
 3. Loop Transformations (cache models and automatic transformation frameworks)
 4. Data Layout Transformations.
 5. Automatic Verification in Compilers.
-6. Other Topics (Performance, Parallelization etc.)
+6. Other Topics (Performance, Parallelization, Metaprogramming etc.)
 
 ## Course Overview
 
