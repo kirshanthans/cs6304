@@ -11,7 +11,7 @@
     "href": "index.html#course-topics",
     "title": "CS6304: Advanced Topics in Language and Translation (Spring 2024)",
     "section": "Course Topics",
-    "text": "Course Topics\nThis course focuses on the techniques used by advanced compilers to optimize and analyze programs. The topics we will cover in this course include:\n\nAdvanced Dataflow Analysis.\nStatic Single Assignment (SSA) Form.\nLoop Transformations (cache models and automatic transformation frameworks)\nData Layout Transformations.\nAutomatic Verification in Compilers.\nOther Topics (Performance, Parallelization etc.)"
+    "text": "Course Topics\nThis course focuses on the techniques used by advanced compilers to optimize and analyze programs. The topics we will cover in this course include:\n\nAdvanced Dataflow Analysis.\nStatic Single Assignment (SSA) Form.\nLoop Transformations (cache models and automatic transformation frameworks)\nData Layout Transformations.\nAutomatic Verification in Compilers.\nOther Topics (Performance, Parallelization, Metaprogramming etc.)"
   },
   {
     "objectID": "index.html#course-overview",
