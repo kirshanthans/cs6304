@@ -6,7 +6,9 @@ title: "CS6304: Advanced Topics in Language and Translation (Spring 2024)"
 
 * Instructor: Kirshanthan (Krish) Sundararajah | [email](mailto:kirshanthans@vt.edu) | [website](https://kirshanthans.github.io)
     * Class Time: MW 2.30 pm - 3.45 pm at WHIT 349
+    * Piazza: [link](https://piazza.com/vt/spring2024/cs6304/home)
     * Office Hours: By Appointment (4103 Gilbert Place)
+    
 
 ## Course Topics
 
