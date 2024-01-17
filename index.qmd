@@ -12,8 +12,8 @@ title: "CS6304: Advanced Topics in Language and Translation (Spring 2024)"
 
 This course focuses on the techniques used by advanced compilers to optimize and analyze programs. The topics we will cover in this course include:
 
-1. Advanced Dataflow Analysis.
-2. Static Single Assignment (SSA) Form.
+1. Static Single Assignment (SSA) Form.
+2. Advanced Dataflow Analysis.
 3. Loop Transformations (cache models and automatic transformation frameworks)
 4. Data Layout Transformations.
 5. Automatic Verification in Compilers.
