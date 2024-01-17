@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "CS6304: Advanced Topics in Language and Translation (Spring 2024)",
     "section": "",
-    "text": "Instructor: Kirshanthan (Krish) Sundararajah | email | website\n\nClass Time: TBA\nOffice Hours: TBA (4103 Gilbert Place)"
+    "text": "Instructor: Kirshanthan (Krish) Sundararajah | email | website\n\nClass Time: MW 2.30 pm - 3.45 pm at WHIT 349\nPiazza: link\nOffice Hours: By Appointment (4103 Gilbert Place)"
   },
   {
     "objectID": "index.html#course-topics",
     "href": "index.html#course-topics",
     "title": "CS6304: Advanced Topics in Language and Translation (Spring 2024)",
     "section": "Course Topics",
-    "text": "Course Topics\nThis course focuses on the techniques used by advanced compilers to optimize and analyze programs. The topics we will cover in this course include:\n\nAdvanced Dataflow Analysis.\nStatic Single Assignment (SSA) Form.\nLoop Transformations (cache models and automatic transformation frameworks)\nData Layout Transformations.\nAutomatic Verification in Compilers.\nOther Topics (Performance, Parallelization, Metaprogramming etc.)"
+    "text": "Course Topics\nThis course focuses on the techniques used by advanced compilers to optimize and analyze programs. The topics we will cover in this course include:\n\nStatic Single Assignment (SSA) Form.\nAdvanced Dataflow Analysis.\nLoop Transformations (cache models and automatic transformation frameworks)\nData Layout Transformations.\nAutomatic Verification in Compilers.\nOther Topics (Performance, Parallelization, Metaprogramming etc.)"
   },
   {
     "objectID": "index.html#course-overview",
