@@ -1,3 +1,5 @@
 ---
 title: Class Schedule
 ---
+
+* SSA Translation: [Slides](lecture-01.pdf) (Slides Courtesy: [Milind Kulkarni](https://engineering.purdue.edu/~milind/))
