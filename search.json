@@ -26,5 +26,12 @@
     "title": "Reading List",
     "section": "",
     "text": "01/31/24\n\nThe reference paper for constructing SSA is Efficiently Computing Static Single Assignment Form and the Control Dependence Graph by Cytron et al.\nThe reference paper for dominance frontiers is A Simple, Fast Dominance Algorithm by Cooper et al."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Class Schedule",
+    "section": "",
+    "text": "SSA Translation: Slides"
   }
 ]
