@@ -6,3 +6,7 @@ title: Reading List
 
 * The reference paper for constructing SSA is [Efficiently Computing Static Single Assignment Form and the Control Dependence Graph](https://dl.acm.org/doi/10.1145/115372.115320) by Cytron et al.
 * The reference paper for dominance frontiers is [A Simple, Fast Dominance Algorithm](http://www.hipersoft.rice.edu/grads/publications/dom14.pdf) by Cooper et al.
+
+**02/01/24**
+* The reference thesis for llvm is [LLVM: An Infrastructure for Multi-stage Optimization](https://llvm.org/pubs/2002-12-LattnerMSThesis.pdf) by Chris Lattner.
+* The reference paper for functional equivalence of SSA is [SSA is Functional Programming](https://www.cs.princeton.edu/~appel/papers/ssafun.pdf) by Andrew Appel.
