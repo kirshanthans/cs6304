@@ -25,7 +25,7 @@
     "href": "reading.html",
     "title": "Reading List",
     "section": "",
-    "text": "01/31/24\n\nThe reference paper for constructing SSA is Efficiently Computing Static Single Assignment Form and the Control Dependence Graph by Cytron et al.\nThe reference paper for dominance frontiers is A Simple, Fast Dominance Algorithm by Cooper et al.\n\n02/01/24\n\nThe reference thesis for llvm is LLVM: An Infrastructure for Multi-stage Optimization by Chris Lattner.\nThe reference paper for functional equivalence of SSA is SSA is Functional Programming by Andrew Appel."
+    "text": "01/31/24\n\nThe reference paper for constructing SSA is Efficiently Computing Static Single Assignment Form and the Control Dependence Graph by Cytron et al.\nThe reference paper for dominance frontiers is A Simple, Fast Dominance Algorithm by Cooper et al.\n\n02/01/24\n\nThe reference thesis for llvm is LLVM: An Infrastructure for Multi-stage Optimization by Chris Lattner.\nThe reference paper for functional equivalence of SSA is SSA is Functional Programming by Andrew Appel.\n\n02/12/24\n\nThe reference material for PRE is this handout.\nThe reference paper for PRE is A Variation of Knoop, Ruthing, and Steffen’s Lazy Code Motion"
   },
   {
     "objectID": "schedule.html",
