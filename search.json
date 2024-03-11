@@ -32,6 +32,6 @@
     "href": "schedule.html",
     "title": "Class Schedule",
     "section": "",
-    "text": "Overview: Slides\nSSA Translation: Slides (Slides Courtesy: Milind Kulkarni)"
+    "text": "Slides Courtesy: Milind Kulkarni\n\nOverview: Slides\nSSA Translation: Slides\nPartial Redundancy Elimination: Slides\nModeling Loops: Slides\nLoops Transformations: Slides"
   }
 ]
