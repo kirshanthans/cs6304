@@ -1,6 +1,12 @@
 ---
 title: Class Schedule
 ---
+Slides Courtesy: [Milind Kulkarni](https://engineering.purdue.edu/~milind/)
 
 * Overview: [Slides](lecture-00.pdf)
-* SSA Translation: [Slides](lecture-01.pdf) (Slides Courtesy: [Milind Kulkarni](https://engineering.purdue.edu/~milind/))
+* SSA Translation: [Slides](lecture-01.pdf) 
+* Partial Redundancy Elimination: [Slides](lecture-02.pdf)
+* Modeling Loops: [Slides](lecture-03.pdf)
+* Loops Transformations: [Slides](lecture-04.pdf)
+* System of Inequalities: [Slides](lecture-05.pdf)
+* Dependence Testing: [Slides](lecture-06.pdf)
