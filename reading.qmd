@@ -20,6 +20,16 @@ title: Reading List
 
 ## Paper Discussions
 
-**03/20/24**
+### Compilation for Sparse Tensor Algebra
 
 * The Tensor Algebra Compiler [paper](tensor-compiler.org/files/kjolstad-oopsla17-tensor-compiler.pdf) by Kjolstad et al.
+* Format Abstraction for Sparse Tensor Algebra Compilers [paper](https://tensor-compiler.org/files/chou-oopsla18-taco-formats.pdf) by Chou et al.
+* Autoscheduling for Sparse Tensor Algebra with an Asymptotic Cost Model [paper](https://tensor-compiler.org/files/ahrens-pldi22-taco-autoscheduling.pdf) by Ahrens et al.
+* Unified Compilation for Lossless Compression and Sparse Computing [paper](https://tensor-compiler.org/files/donenfeld-cgo22-taco-compression.pdf) by Donenfeld et al.
+
+### Vectorization
+
+* VeGen: A Vectorizer Generator for SIMD and Beyond [paper](https://groups.csail.mit.edu/commit/papers/2021/vegen.pdf) by Chen et al.
+* All you need is superword-level parallelism: systematic control-flow vectorization with SLP [paper](https://dl.acm.org/doi/abs/10.1145/3519939.3523701) by Chen et al.
+* Whole-Function Vectorization [paper](https://compilers.cs.uni-saarland.de/papers/karrenberg_wfv.pdf) by Karrenberg et al.
+
