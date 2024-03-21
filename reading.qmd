@@ -16,3 +16,10 @@ title: Reading List
 
 * The reference material for PRE is this [handout](https://gustavus.edu/academics/departments/mathematics-computer-science-and-statistics/max/courses/S2005/MCS-388/pre.pdf).
 * The reference paper for PRE is [A Variation of Knoop, Ruthing, and Steffen's Lazy Code Motion](https://www.cs.utexas.edu/users/pingali/CS380C/2007fa/papers/lcm.pdf)
+
+
+## Paper Discussions
+
+**03/20/24**
+
+* The Tensor Algebra Compiler [paper](tensor-compiler.org/files/kjolstad-oopsla17-tensor-compiler.pdf) by Kjolstad et al.
