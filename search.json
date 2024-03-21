@@ -32,7 +32,7 @@
     "href": "reading.html#paper-discussions",
     "title": "Reading List",
     "section": "Paper Discussions",
-    "text": "Paper Discussions\n03/20/24\n\nThe Tensor Algebra Compiler paper by Kjolstad et al."
+    "text": "Paper Discussions\n\nCompilation for Sparse Tensor Algebra\n\nThe Tensor Algebra Compiler paper by Kjolstad et al.\nFormat Abstraction for Sparse Tensor Algebra Compilers paper by Chou et al.\nAutoscheduling for Sparse Tensor Algebra with an Asymptotic Cost Model paper by Ahrens et al.\nUnified Compilation for Lossless Compression and Sparse Computing paper by Donenfeld et al.\n\n\n\nVectorization\n\nVeGen: A Vectorizer Generator for SIMD and Beyond paper by Chen et al.\nAll you need is superword-level parallelism: systematic control-flow vectorization with SLP paper by Chen et al.\nWhole-Function Vectorization paper by Karrenberg et al."
   },
   {
     "objectID": "schedule.html",
