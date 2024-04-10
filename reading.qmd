@@ -27,9 +27,27 @@ title: Reading List
 * Autoscheduling for Sparse Tensor Algebra with an Asymptotic Cost Model [paper](https://tensor-compiler.org/files/ahrens-pldi22-taco-autoscheduling.pdf) by Ahrens et al.
 * Unified Compilation for Lossless Compression and Sparse Computing [paper](https://tensor-compiler.org/files/donenfeld-cgo22-taco-compression.pdf) by Donenfeld et al.
 
-### Vectorization
+### Automatic Vectorization
 
 * VeGen: A Vectorizer Generator for SIMD and Beyond [paper](https://groups.csail.mit.edu/commit/papers/2021/vegen.pdf) by Chen et al.
 * All you need is superword-level parallelism: systematic control-flow vectorization with SLP [paper](https://dl.acm.org/doi/abs/10.1145/3519939.3523701) by Chen et al.
 * Whole-Function Vectorization [paper](https://compilers.cs.uni-saarland.de/papers/karrenberg_wfv.pdf) by Karrenberg et al.
+
+### Automatic Verification and Fuzzing
+
+* Test-Case Reduction for C Compiler Bugs [paper](https://users.cs.utah.edu/~regehr/papers/pldi12-preprint.pdf) by Regehr et al.
+* Alive2: Bounded Translation Validation for LLVM [paper](https://web.ist.utl.pt/nuno.lopes/pubs/alive2-pldi21.pdf) by Lopes et al.
+* Rare Path Guided Fuzzing [paper](https://dl.acm.org/doi/abs/10.1145/3597926.3598136) by Saha et al.
+* Test-Case Reduction and Deduplication Almost for Free with Transformation-Based Compiler Testing [paper](https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2021/PLDI.pdf) by Donaldson et al.
+
+### Manged Langauges and Runtimes
+
+* Perceus: garbage free reference counting with reuse [paper](https://dl.acm.org/doi/10.1145/3453483.3454032) by Reinking et al.
+* Virtual Machine Showdown: Stack Versus Registers [paper](https://www.usenix.org/legacy/events%2Fvee05%2Ffull_papers/p153-yunhe.pdf) by Shi et al.
+
+### Data Layout
+
+* Late Data Layout: Unifying Data Representation Transformations [paper](https://dl.acm.org/doi/10.1145/2714064.2660197) by Ureche et al.
+* Whole-Program Optimization of Global Variable Layout [paper](https://dl.acm.org/doi/10.1145/1152154.1152181) by McIntosh et al.
+* Optimizing Tensor Programs on Flexible Storage [paper](https://dl.acm.org/doi/abs/10.1145/3588717) by Schleich et al.
 
